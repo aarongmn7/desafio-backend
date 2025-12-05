@@ -1,0 +1,13 @@
+{
+  "properties": [],
+  "brokers": [
+    {
+      "id": "189ff1b1-1f49-4511-a7ea-efcbd671bc71",
+      "creci": "12345",
+      "name": "Jo�o Silva",
+      "email": "joao@example.com"
+    }
+  ],
+  "clients": [],
+  "appointments": []
+}
